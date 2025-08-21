@@ -6,3 +6,4 @@ groq # EdA process
 seaborn # visualizing data
 pydantic
 python-dotenv
+matplotlib
